@@ -1,0 +1,1 @@
+color_list = ['#fa6ee8', '#ff64ba', '#ff6c8d', '#ff8066', '#ff9748', '#e6ad3a', '#c3be42', '#9ccc5e']
